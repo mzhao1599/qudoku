@@ -1,3 +1,3 @@
-rudy_all/: directory containing maxcut instances
+rudy_all/: Directory containing maxcut instances taken from [Biqmac Library](https://biqmac.aau.at/library/mac/rudy/)
 
-packages needed: ITensors, ITensorMPS, HDF5
+Julia packages needed: ITensors, ITensorMPS, HDF5
